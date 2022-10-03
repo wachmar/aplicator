@@ -1,0 +1,9 @@
+Sehr geehrte{0} {1},
+ 
+ich bin über Ihre Stellenanzeige auf {2} auf die ausgeschriebene Position als {3} aufmerksam geworden. 
+ 
+Vielen Dank für Ihre Zeit und Überlegung, ich freue mich darauf, von Ihnen zu hören.
+ 
+
+Mit freundlichen Grüßen,
+
